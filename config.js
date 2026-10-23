@@ -2,7 +2,7 @@ const GIFTBOX_CONFIG = {
   songId: "slumdunk",
 
   images: {
-    top: "main.JPG",
-    service: "service.JPG"
+    top: "main.png",
+    service: "service.png"
   }
 };
