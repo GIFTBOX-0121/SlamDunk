@@ -1,5 +1,5 @@
 const GIFTBOX_CONFIG = {
-  songId: "slumdunk",
+  songId: "slamdunk",
 
   images: {
     top: "main.png",
